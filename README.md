@@ -1,3 +1,8 @@
+![image](https://github.com/jaswanth-coder/Cython_2024_Scramblers/assets/75730218/750ebb10-903b-47dd-9878-44d14a3f07e0)
+
+![image](https://github.com/jaswanth-coder/Cython_2024_Scramblers/assets/75730218/db9b62b4-0a56-45ec-8e0c-cbd8a3333622)
+
+
 <div align="center">
   <h1 style="color: #0eff00; font-family: 'Courier New', Courier, monospace;">Authentication Security Browser Extension</h1>
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
