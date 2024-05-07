@@ -1,4 +1,5 @@
-![image](https://github.com/jaswanth-coder/Cython_2024_Scramblers/assets/75730218/750ebb10-903b-47dd-9878-44d14a3f07e0)
+![image](https://github.com/jaswanth-coder/Cython_2024_Scramblers/assets/75730218/4fc45075-353c-4e12-beae-cb4aea424a3f)
+
 
 ![image](https://github.com/jaswanth-coder/Cython_2024_Scramblers/assets/75730218/db9b62b4-0a56-45ec-8e0c-cbd8a3333622)
 
