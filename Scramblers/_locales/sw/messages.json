@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Mhariri wa Vidakuzi"
+  },
+  "ext_description": {
+    "message": "Mhariri wa Vidakuzi wa haraka lakini wenye nguvu unao kuruhusu haraka kuunda, kuhariri na kufuta vidakuzi bila kuondoka kwenye kichupo chako."
+  },
+  "placeholder_search": {
+    "message": "Tafuta jina la kuki"
+  },
+  "btn_import": {
+    "message": "Ingiza"
+  },
+  "btn_export": {
+    "message": "Nguvu"
+  },
+  "btn_remove": {
+    "message": "Ondoa Yote"
+  },
+  "msg_no_cookies": {
+    "message": "Hakuna vidakuzi."
+  },
+  "btn_delete": {
+    "message": "Futa"
+  },
+  "btn_cancel": {
+    "message": "Ghairi"
+  },
+  "btn_edit": {
+    "message": "Hariri"
+  },
+  "title_delete": {
+    "message": "Je! Unataka kuondoa vidakuzi vyote vya tovuti hii?"
+  },
+  "title_import": {
+    "message": "Je! Unajaribu kuagiza vidakuzi?"
+  },
+  "msg_import_error": {
+    "message": "Imeshindwa kuagiza vidakuzi."
+  },
+  "pl_password": {
+    "message": "Nenosiri la kusimbua/kusimbua vidakuzi"
+  },
+  "title_export": {
+    "message": "Je! Unajaribu kuuza vidakuzi?"
+  }
+}

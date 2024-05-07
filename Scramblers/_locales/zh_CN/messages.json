@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie编辑器"
+  },
+  "ext_description": {
+    "message": "简单而强大的Cookie编辑器，允许您快速创建、编辑和删除Cookie，无需离开标签页。"
+  },
+  "placeholder_search": {
+    "message": "搜索Cookie名称"
+  },
+  "btn_import": {
+    "message": "导入"
+  },
+  "btn_export": {
+    "message": "导出"
+  },
+  "btn_remove": {
+    "message": "清除全部"
+  },
+  "msg_no_cookies": {
+    "message": "没有Cookie。"
+  },
+  "btn_delete": {
+    "message": "删除"
+  },
+  "btn_cancel": {
+    "message": "取消"
+  },
+  "btn_edit": {
+    "message": "编辑"
+  },
+  "title_delete": {
+    "message": "您是否要删除此网站的所有Cookie？"
+  },
+  "title_import": {
+    "message": "您是否尝试导入Cookie？"
+  },
+  "msg_import_error": {
+    "message": "导入Cookie失败。"
+  },
+  "pl_password": {
+    "message": "用于加密/解密Cookie的密码"
+  },
+  "title_export": {
+    "message": "您是否尝试导出Cookie？"
+  }
+}

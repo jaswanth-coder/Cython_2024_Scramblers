@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Uređivač kolačića"
+  },
+  "ext_description": {
+    "message": "Jednostavan, ali moćan uređivač kolačića koji vam omogućuje brzo stvaranje, uređivanje i brisanje kolačića bez napuštanja vaše kartice."
+  },
+  "placeholder_search": {
+    "message": "Traži naziv kolačića"
+  },
+  "btn_import": {
+    "message": "Uvoz"
+  },
+  "btn_export": {
+    "message": "Izvoz"
+  },
+  "btn_remove": {
+    "message": "Očisti sve"
+  },
+  "msg_no_cookies": {
+    "message": "Nema kolačića."
+  },
+  "btn_delete": {
+    "message": "Izbriši"
+  },
+  "btn_cancel": {
+    "message": "Odbaci"
+  },
+  "btn_edit": {
+    "message": "Uredi"
+  },
+  "title_delete": {
+    "message": "Želite li izbrisati sve kolačiće s ove web stranice?"
+  },
+  "title_import": {
+    "message": "Pokušavate li uvesti kolačiće?"
+  },
+  "msg_import_error": {
+    "message": "Neuspjelo uvođenje kolačića."
+  },
+  "pl_password": {
+    "message": "Lozinka za šifriranje/dešifriranje kolačića"
+  },
+  "title_export": {
+    "message": "Pokušavate li izvesti kolačiće?"
+  }
+}

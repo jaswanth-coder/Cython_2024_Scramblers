@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie Editor"
+  },
+  "ext_description": {
+    "message": "Einfacher, aber leistungsstarker Cookie-Editor, der es Ihnen ermöglicht, schnell Cookies zu erstellen, zu bearbeiten und zu löschen, ohne Ihren Tab zu verlassen."
+  },
+  "placeholder_search": {
+    "message": "Suche nach Cookie-Namen"
+  },
+  "btn_import": {
+    "message": "Importieren"
+  },
+  "btn_export": {
+    "message": "Exportieren"
+  },
+  "btn_remove": {
+    "message": "Alle löschen"
+  },
+  "msg_no_cookies": {
+    "message": "Keine Cookies."
+  },
+  "btn_delete": {
+    "message": "Löschen"
+  },
+  "btn_cancel": {
+    "message": "Abbrechen"
+  },
+  "btn_edit": {
+    "message": "Bearbeiten"
+  },
+  "title_delete": {
+    "message": "Möchten Sie alle Cookies dieser Website entfernen?"
+  },
+  "title_import": {
+    "message": "Versuchen Sie, Cookies zu importieren?"
+  },
+  "msg_import_error": {
+    "message": "Fehler beim Importieren von Cookies."
+  },
+  "pl_password": {
+    "message": "Passwort zum Verschlüsseln/Entschlüsseln von Cookies"
+  },
+  "title_export": {
+    "message": "Versuchen Sie, Cookies zu exportieren?"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Editor Cookie"
+  },
+  "ext_description": {
+    "message": "Editor Cookie sederhana namun kuat yang memungkinkan Anda dengan cepat membuat, mengedit, dan menghapus cookie tanpa meninggalkan tab Anda."
+  },
+  "placeholder_search": {
+    "message": "Cari nama cookie"
+  },
+  "btn_import": {
+    "message": "Impor"
+  },
+  "btn_export": {
+    "message": "Ekspor"
+  },
+  "btn_remove": {
+    "message": "Hapus Semua"
+  },
+  "msg_no_cookies": {
+    "message": "Tidak ada cookie."
+  },
+  "btn_delete": {
+    "message": "Hapus"
+  },
+  "btn_cancel": {
+    "message": "Batal"
+  },
+  "btn_edit": {
+    "message": "Edit"
+  },
+  "title_delete": {
+    "message": "Apakah Anda ingin menghapus semua cookie dari situs web ini?"
+  },
+  "title_import": {
+    "message": "Apakah Anda mencoba mengimpor cookie?"
+  },
+  "msg_import_error": {
+    "message": "Gagal mengimpor cookie."
+  },
+  "pl_password": {
+    "message": "Kata sandi untuk mengenkripsi/mendekripsi cookie"
+  },
+  "title_export": {
+    "message": "Apakah Anda mencoba mengekspor cookie?"
+  }
+}

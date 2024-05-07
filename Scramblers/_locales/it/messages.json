@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Editor Cookie"
+  },
+  "ext_description": {
+    "message": "Editor Cookie semplice ma potente che ti consente di creare, modificare ed eliminare rapidamente i cookie senza lasciare la tua scheda."
+  },
+  "placeholder_search": {
+    "message": "Cerca nome cookie"
+  },
+  "btn_import": {
+    "message": "Importa"
+  },
+  "btn_export": {
+    "message": "Esporta"
+  },
+  "btn_remove": {
+    "message": "Cancella tutto"
+  },
+  "msg_no_cookies": {
+    "message": "Nessun cookie."
+  },
+  "btn_delete": {
+    "message": "Elimina"
+  },
+  "btn_cancel": {
+    "message": "Annulla"
+  },
+  "btn_edit": {
+    "message": "Modifica"
+  },
+  "title_delete": {
+    "message": "Vuoi eliminare tutti i cookie di questo sito web?"
+  },
+  "title_import": {
+    "message": "Stai cercando di importare i cookie?"
+  },
+  "msg_import_error": {
+    "message": "Impossibile importare i cookie."
+  },
+  "pl_password": {
+    "message": "Password per crittografare/decrittografare i cookie"
+  },
+  "title_export": {
+    "message": "Stai cercando di esportare i cookie?"
+  }
+}

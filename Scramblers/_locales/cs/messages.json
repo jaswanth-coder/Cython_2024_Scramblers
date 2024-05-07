@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Editor sušenek"
+  },
+  "ext_description": {
+    "message": "Jednoduchý, ale výkonný editor sušenek, který vám umožní rychle vytvářet, upravovat a odstraňovat sušenky, aniž byste opustili váš panel."
+  },
+  "placeholder_search": {
+    "message": "Hledat název sušenky"
+  },
+  "btn_import": {
+    "message": "Importovat"
+  },
+  "btn_export": {
+    "message": "Exportovat"
+  },
+  "btn_remove": {
+    "message": "Vymazat všechny"
+  },
+  "msg_no_cookies": {
+    "message": "Žádné sušenky."
+  },
+  "btn_delete": {
+    "message": "Smazat"
+  },
+  "btn_cancel": {
+    "message": "Zrušit"
+  },
+  "btn_edit": {
+    "message": "Upravit"
+  },
+  "title_delete": {
+    "message": "Chcete smazat všechny sušenky z této webové stránky?"
+  },
+  "title_import": {
+    "message": "Zkoušíte importovat sušenky?"
+  },
+  "msg_import_error": {
+    "message": "Nepodařilo se importovat sušenky."
+  },
+  "pl_password": {
+    "message": "Heslo pro šifrování/dešifrování sušenek"
+  },
+  "title_export": {
+    "message": "Zkoušíte exportovat sušenky?"
+  }
+}

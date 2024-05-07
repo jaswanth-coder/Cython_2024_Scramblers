@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie-redigerare"
+  },
+  "ext_description": {
+    "message": "Enkel men kraftfull Cookie-redigerare som låter dig snabbt skapa, redigera och ta bort cookies utan att lämna din flik."
+  },
+  "placeholder_search": {
+    "message": "Sök efter cookie-namn"
+  },
+  "btn_import": {
+    "message": "Importera"
+  },
+  "btn_export": {
+    "message": "Exportera"
+  },
+  "btn_remove": {
+    "message": "Rensa allt"
+  },
+  "msg_no_cookies": {
+    "message": "Inga cookies."
+  },
+  "btn_delete": {
+    "message": "Ta bort"
+  },
+  "btn_cancel": {
+    "message": "Avbryt"
+  },
+  "btn_edit": {
+    "message": "Redigera"
+  },
+  "title_delete": {
+    "message": "Vill du ta bort alla cookies från den här webbplatsen?"
+  },
+  "title_import": {
+    "message": "Försöker du importera cookies?"
+  },
+  "msg_import_error": {
+    "message": "Misslyckades med att importera cookies."
+  },
+  "pl_password": {
+    "message": "Lösenord för att kryptera/avkryptera cookies"
+  },
+  "title_export": {
+    "message": "Försöker du exportera cookies?"
+  }
+}

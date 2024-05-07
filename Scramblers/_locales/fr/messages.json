@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Éditeur de Cookies"
+  },
+  "ext_description": {
+    "message": "Éditeur de cookies simple mais puissant qui vous permet de créer, éditer et supprimer rapidement des cookies sans quitter votre onglet."
+  },
+  "placeholder_search": {
+    "message": "Rechercher le nom du cookie"
+  },
+  "btn_import": {
+    "message": "Importer"
+  },
+  "btn_export": {
+    "message": "Exporter"
+  },
+  "btn_remove": {
+    "message": "Effacer tout"
+  },
+  "msg_no_cookies": {
+    "message": "Aucun cookie."
+  },
+  "btn_delete": {
+    "message": "Supprimer"
+  },
+  "btn_cancel": {
+    "message": "Annuler"
+  },
+  "btn_edit": {
+    "message": "Éditer"
+  },
+  "title_delete": {
+    "message": "Voulez-vous supprimer tous les cookies de ce site web ?"
+  },
+  "title_import": {
+    "message": "Tentez-vous d'importer des cookies ?"
+  },
+  "msg_import_error": {
+    "message": "Échec de l'importation des cookies."
+  },
+  "pl_password": {
+    "message": "Mot de passe pour chiffrer/déchiffrer les cookies"
+  },
+  "title_export": {
+    "message": "Tentez-vous d'exporter des cookies ?"
+  }
+}

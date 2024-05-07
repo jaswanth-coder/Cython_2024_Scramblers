@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie Editor"
+  },
+  "ext_description": {
+    "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+  },
+  "placeholder_search": {
+    "message": "Search cookie name"
+  },
+  "btn_import": {
+    "message": "Import"
+  },
+  "btn_export": {
+    "message": "Export"
+  },
+  "btn_remove": {
+    "message": "Clear All"
+  },
+  "msg_no_cookies": {
+    "message": "No cookies."
+  },
+  "btn_delete": {
+    "message": "Delete"
+  },
+  "btn_cancel": {
+    "message": "Cancel"
+  },
+  "btn_edit": {
+    "message": "Edit"
+  },
+  "title_delete": {
+    "message": "Do you want to remove all cookies of this website?"
+  },
+  "title_import": {
+    "message": "Are you trying to import cookies?"
+  },
+  "msg_import_error": {
+    "message": "Failed to import cookies."
+  },
+  "pl_password": {
+    "message": "Password to encrypt/decrypt cookies"
+  },
+  "title_export": {
+    "message": "Are you trying to export cookies?"
+  }
+}

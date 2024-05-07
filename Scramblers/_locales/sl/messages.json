@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Urejevalnik piškotkov"
+  },
+  "ext_description": {
+    "message": "Preprost, a močan urejevalnik piškotkov, ki vam omogoča hitro ustvarjanje, urejanje in brisanje piškotkov, ne da bi zapustili zavihek."
+  },
+  "placeholder_search": {
+    "message": "Išči po imenu piškotka"
+  },
+  "btn_import": {
+    "message": "Uvozi"
+  },
+  "btn_export": {
+    "message": "Izvozi"
+  },
+  "btn_remove": {
+    "message": "Počisti vse"
+  },
+  "msg_no_cookies": {
+    "message": "Ni piškotkov."
+  },
+  "btn_delete": {
+    "message": "Izbriši"
+  },
+  "btn_cancel": {
+    "message": "Prekliči"
+  },
+  "btn_edit": {
+    "message": "Uredi"
+  },
+  "title_delete": {
+    "message": "Ali res želite odstraniti vse piškotke s te spletne strani?"
+  },
+  "title_import": {
+    "message": "Poskušate uvoziti piškotke?"
+  },
+  "msg_import_error": {
+    "message": "Napaka pri uvozu piškotkov."
+  },
+  "pl_password": {
+    "message": "Geslo za šifriranje/desifriranje piškotkov"
+  },
+  "title_export": {
+    "message": "Poskušate izvoziti piškotke?"
+  }
+}

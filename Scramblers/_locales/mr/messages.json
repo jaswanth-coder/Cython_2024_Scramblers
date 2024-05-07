@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Penyunting Kuki"
+  },
+  "ext_description": {
+    "message": "Penyunting Kuki yang mudah tetapi kuat yang membolehkan anda dengan cepat membuat, mengedit, dan memadam kuki tanpa meninggalkan tab anda."
+  },
+  "placeholder_search": {
+    "message": "Cari nama kuki"
+  },
+  "btn_import": {
+    "message": "Import"
+  },
+  "btn_export": {
+    "message": "Eksport"
+  },
+  "btn_remove": {
+    "message": "Padam Semua"
+  },
+  "msg_no_cookies": {
+    "message": "Tiada kuki."
+  },
+  "btn_delete": {
+    "message": "Padam"
+  },
+  "btn_cancel": {
+    "message": "Batal"
+  },
+  "btn_edit": {
+    "message": "Edit"
+  },
+  "title_delete": {
+    "message": "Adakah anda mahu memadam semua kuki dari laman web ini?"
+  },
+  "title_import": {
+    "message": "Adakah anda cuba mengimport kuki?"
+  },
+  "msg_import_error": {
+    "message": "Gagal mengimport kuki."
+  },
+  "pl_password": {
+    "message": "Kata laluan untuk mengenkripsi/mendekripsi kuki"
+  },
+  "title_export": {
+    "message": "Adakah anda cuba mengeskport kuki?"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "クッキーエディタ"
+  },
+  "ext_description": {
+    "message": "シンプルでありながら強力なクッキーエディタ。タブを離れることなくクッキーを素早く作成、編集、削除できます。"
+  },
+  "placeholder_search": {
+    "message": "クッキー名を検索"
+  },
+  "btn_import": {
+    "message": "インポート"
+  },
+  "btn_export": {
+    "message": "エクスポート"
+  },
+  "btn_remove": {
+    "message": "すべてクリア"
+  },
+  "msg_no_cookies": {
+    "message": "クッキーはありません。"
+  },
+  "btn_delete": {
+    "message": "削除"
+  },
+  "btn_cancel": {
+    "message": "キャンセル"
+  },
+  "btn_edit": {
+    "message": "編集"
+  },
+  "title_delete": {
+    "message": "このウェブサイトのすべてのクッキーを削除しますか？"
+  },
+  "title_import": {
+    "message": "クッキーをインポートしようとしていますか？"
+  },
+  "msg_import_error": {
+    "message": "クッキーのインポートに失敗しました。"
+  },
+  "pl_password": {
+    "message": "クッキーを暗号化/復号化するためのパスワード"
+  },
+  "title_export": {
+    "message": "クッキーをエクスポートしようとしていますか？"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Επεξεργαστής Cookies"
+  },
+  "ext_description": {
+    "message": "Απλός, αλλά ισχυρός επεξεργαστής cookies που σας επιτρέπει να δημιουργείτε, επεξεργάζεστε και διαγράφετε γρήγορα τα cookies χωρίς να αφήνετε το καρτελάκι σας."
+  },
+  "placeholder_search": {
+    "message": "Αναζήτηση ονόματος cookie"
+  },
+  "btn_import": {
+    "message": "Εισαγωγή"
+  },
+  "btn_export": {
+    "message": "Εξαγωγή"
+  },
+  "btn_remove": {
+    "message": "Εκκαθάριση όλων"
+  },
+  "msg_no_cookies": {
+    "message": "Δεν υπάρχουν cookies."
+  },
+  "btn_delete": {
+    "message": "Διαγραφή"
+  },
+  "btn_cancel": {
+    "message": "Ακύρωση"
+  },
+  "btn_edit": {
+    "message": "Επεξεργασία"
+  },
+  "title_delete": {
+    "message": "Θέλετε να διαγράψετε όλα τα cookies από αυτήν την ιστοσελίδα;"
+  },
+  "title_import": {
+    "message": "Προσπαθείτε να εισαγάγετε cookies;"
+  },
+  "msg_import_error": {
+    "message": "Αποτυχία εισαγωγής cookies."
+  },
+  "pl_password": {
+    "message": "Κωδικός για κρυπτογράφηση/αποκρυπτογράφηση cookies"
+  },
+  "title_export": {
+    "message": "Προσπαθείτε να εξάγετε cookies;"
+  }
+}

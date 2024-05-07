@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Slapukų redaktorius"
+  },
+  "ext_description": {
+    "message": "Paprastas, tačiau galingas slapukų redaktorius, leidžiantis jums greitai kurti, redaguoti ir šalinti slapukus, neišeinant iš savo skirtuko."
+  },
+  "placeholder_search": {
+    "message": "Ieškoti slapuko pavadinimo"
+  },
+  "btn_import": {
+    "message": "Importuoti"
+  },
+  "btn_export": {
+    "message": "Eksportuoti"
+  },
+  "btn_remove": {
+    "message": "Valyti viską"
+  },
+  "msg_no_cookies": {
+    "message": "Nėra slapukų."
+  },
+  "btn_delete": {
+    "message": "Ištrinti"
+  },
+  "btn_cancel": {
+    "message": "Atšaukti"
+  },
+  "btn_edit": {
+    "message": "Redaguoti"
+  },
+  "title_delete": {
+    "message": "Ar norite ištrinti visus šios svetainės slapukus?"
+  },
+  "title_import": {
+    "message": "Ar bandote importuoti slapukus?"
+  },
+  "msg_import_error": {
+    "message": "Nepavyko importuoti slapukų."
+  },
+  "pl_password": {
+    "message": "Slapukų šifravimui/šifravimo atšifravimui slaptažodis"
+  },
+  "title_export": {
+    "message": "Ar bandote eksportuoti slapukus?"
+  }
+}

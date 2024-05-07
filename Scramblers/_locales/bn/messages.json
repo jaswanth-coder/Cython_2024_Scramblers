@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "কুকি এডিটর"
+  },
+  "ext_description": {
+    "message": "সহজ এবং শক্তিশালী কুকি এডিটর যা আপনাকে আপনার ট্যাব ছাড়াই দ্রুত কুকি তৈরি, সম্পাদনা এবং মোছার অনুমতি দেয়।"
+  },
+  "placeholder_search": {
+    "message": "কুকির নাম খুঁজুন"
+  },
+  "btn_import": {
+    "message": "আমদানি"
+  },
+  "btn_export": {
+    "message": "রপ্তানি"
+  },
+  "btn_remove": {
+    "message": "সব মুছুন"
+  },
+  "msg_no_cookies": {
+    "message": "কোনো কুকি নেই।"
+  },
+  "btn_delete": {
+    "message": "মুছুন"
+  },
+  "btn_cancel": {
+    "message": "বাতিল"
+  },
+  "btn_edit": {
+    "message": "সম্পাদনা"
+  },
+  "title_delete": {
+    "message": "আপনি কি এই ওয়েবসাইটের সব কুকি মুছতে চান?"
+  },
+  "title_import": {
+    "message": "আপনি কি কুকি আমদানি করতে চাচ্ছেন?"
+  },
+  "msg_import_error": {
+    "message": "কুকি আমদানি করতে ব্যর্থ হয়েছে।"
+  },
+  "pl_password": {
+    "message": "কুকি এনক্রিপ্ট/ডিক্রিপ্ট করার জন্য পাসওয়ার্ড"
+  },
+  "title_export": {
+    "message": "আপনি কি কুকি রপ্তানি করতে চাচ্ছেন?"
+  }
+}

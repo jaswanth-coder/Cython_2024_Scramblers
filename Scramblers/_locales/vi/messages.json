@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie Editor"
+  },
+  "ext_description": {
+    "message": "Trình chỉnh sửa Cookie đơn giản nhưng mạnh mẽ, cho phép bạn nhanh chóng tạo, chỉnh sửa và xóa cookie mà không cần rời khỏi tab của bạn."
+  },
+  "placeholder_search": {
+    "message": "Tìm kiếm tên cookie"
+  },
+  "btn_import": {
+    "message": "Nhập"
+  },
+  "btn_export": {
+    "message": "Xuất"
+  },
+  "btn_remove": {
+    "message": "Xóa tất cả"
+  },
+  "msg_no_cookies": {
+    "message": "Không có cookie."
+  },
+  "btn_delete": {
+    "message": "Xóa"
+  },
+  "btn_cancel": {
+    "message": "Hủy bỏ"
+  },
+  "btn_edit": {
+    "message": "Chỉnh sửa"
+  },
+  "title_delete": {
+    "message": "Bạn có muốn xóa tất cả cookie của trang web này không?"
+  },
+  "title_import": {
+    "message": "Bạn đang cố gắng nhập cookie phải không?"
+  },
+  "msg_import_error": {
+    "message": "Không thể nhập cookie."
+  },
+  "pl_password": {
+    "message": "Mật khẩu để mã hóa/giải mã cookie"
+  },
+  "title_export": {
+    "message": "Bạn đang cố gắng xuất cookie phải không?"
+  }
+}

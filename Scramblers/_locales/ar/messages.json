@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "محرر الكوكيز"
+  },
+  "ext_description": {
+    "message": "محرر الكوكيز بسيط ولكنه قوي يتيح لك إنشاء وتحرير وحذف الكوكيز بسرعة دون مغادرة علامة التبويب الخاصة بك."
+  },
+  "placeholder_search": {
+    "message": "ابحث عن اسم الكوكي"
+  },
+  "btn_import": {
+    "message": "استيراد"
+  },
+  "btn_export": {
+    "message": "تصدير"
+  },
+  "btn_remove": {
+    "message": "مسح الكل"
+  },
+  "msg_no_cookies": {
+    "message": "لا توجد كوكيز."
+  },
+  "btn_delete": {
+    "message": "حذف"
+  },
+  "btn_cancel": {
+    "message": "إلغاء"
+  },
+  "btn_edit": {
+    "message": "تحرير"
+  },
+  "title_delete": {
+    "message": "هل ترغب في إزالة جميع الكوكيز من هذا الموقع؟"
+  },
+  "title_import": {
+    "message": "هل تحاول استيراد الكوكيز؟"
+  },
+  "msg_import_error": {
+    "message": "فشل في استيراد الكوكيز."
+  },
+  "pl_password": {
+    "message": "كلمة المرور لتشفير/فك تشفير الكوكيز"
+  },
+  "title_export": {
+    "message": "هل تحاول تصدير الكوكيز؟"
+  }
+}

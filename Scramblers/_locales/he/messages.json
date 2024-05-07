@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "עורך עוגיות"
+  },
+  "ext_description": {
+    "message": "עורך עוגיות פשוט אך עוצמתי שמאפשר לך ליצור, לערוך ולמחוק עוגיות במהירות ללא עזיבת הלשונית שלך."
+  },
+  "placeholder_search": {
+    "message": "חפש שם עוגיה"
+  },
+  "btn_import": {
+    "message": "יבא"
+  },
+  "btn_export": {
+    "message": "יצא"
+  },
+  "btn_remove": {
+    "message": "נקה הכל"
+  },
+  "msg_no_cookies": {
+    "message": "אין עוגיות."
+  },
+  "btn_delete": {
+    "message": "מחק"
+  },
+  "btn_cancel": {
+    "message": "בטל"
+  },
+  "btn_edit": {
+    "message": "ערוך"
+  },
+  "title_delete": {
+    "message": "האם ברצונך למחוק את כל העוגיות מאתר זה?"
+  },
+  "title_import": {
+    "message": "האם אתה מנסה לייבא עוגיות?"
+  },
+  "msg_import_error": {
+    "message": "יבוא עוגיות נכשל."
+  },
+  "pl_password": {
+    "message": "סיסמה להצפנת/פיצוץ עוגיות"
+  },
+  "title_export": {
+    "message": "האם אתה מנסה לייצא עוגיות?"
+  }
+}

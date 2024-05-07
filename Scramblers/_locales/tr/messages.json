@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Çerez Düzenleyici"
+  },
+  "ext_description": {
+    "message": "Hızlı bir şekilde çerez oluşturmanıza, düzenlemenize ve sekmenizi terk etmeden çerezleri silmenize olanak tanıyan Basit ama Güçlü Çerez Düzenleyici."
+  },
+  "placeholder_search": {
+    "message": "Çerez adını ara"
+  },
+  "btn_import": {
+    "message": "İçe Aktar"
+  },
+  "btn_export": {
+    "message": "Dışa Aktar"
+  },
+  "btn_remove": {
+    "message": "Tümünü Temizle"
+  },
+  "msg_no_cookies": {
+    "message": "Çerez yok."
+  },
+  "btn_delete": {
+    "message": "Sil"
+  },
+  "btn_cancel": {
+    "message": "İptal"
+  },
+  "btn_edit": {
+    "message": "Düzenle"
+  },
+  "title_delete": {
+    "message": "Bu web sitesinin tüm çerezlerini silmek istediğinize emin misiniz?"
+  },
+  "title_import": {
+    "message": "Çerezleri içe aktırmaya mı çalışıyorsunuz?"
+  },
+  "msg_import_error": {
+    "message": "Çerezleri içe aktarma başarısız oldu."
+  },
+  "pl_password": {
+    "message": "Çerezleri şifrelemek/şifresini çözmek için şifre"
+  },
+  "title_export": {
+    "message": "Çerezleri dışa aktırmaya mı çalışıyorsunuz?"
+  }
+}

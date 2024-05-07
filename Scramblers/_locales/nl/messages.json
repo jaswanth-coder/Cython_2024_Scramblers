@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie Editor"
+  },
+  "ext_description": {
+    "message": "Eenvoudige maar krachtige Cookie Editor waarmee u snel cookies kunt maken, bewerken en verwijderen zonder uw tabblad te verlaten."
+  },
+  "placeholder_search": {
+    "message": "Zoek cookie-naam"
+  },
+  "btn_import": {
+    "message": "Importeren"
+  },
+  "btn_export": {
+    "message": "Exporteren"
+  },
+  "btn_remove": {
+    "message": "Alles wissen"
+  },
+  "msg_no_cookies": {
+    "message": "Geen cookies."
+  },
+  "btn_delete": {
+    "message": "Verwijderen"
+  },
+  "btn_cancel": {
+    "message": "Annuleren"
+  },
+  "btn_edit": {
+    "message": "Bewerken"
+  },
+  "title_delete": {
+    "message": "Wilt u alle cookies van deze website verwijderen?"
+  },
+  "title_import": {
+    "message": "Probeert u cookies te importeren?"
+  },
+  "msg_import_error": {
+    "message": "Het importeren van cookies is mislukt."
+  },
+  "pl_password": {
+    "message": "Wachtwoord voor het versleutelen/ontsleutelen van cookies"
+  },
+  "title_export": {
+    "message": "Probeert u cookies te exporteren?"
+  }
+}

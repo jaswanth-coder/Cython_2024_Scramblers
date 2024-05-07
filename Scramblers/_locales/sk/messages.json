@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Editor Cookie"
+  },
+  "ext_description": {
+    "message": "Jednoduchý, ale výkonný Editor Cookie, ktorý vám umožňuje rýchlo vytvárať, upravovať a mazať súbory cookie bez opustenia vášho panela."
+  },
+  "placeholder_search": {
+    "message": "Vyhľadávať podľa názvu cookie"
+  },
+  "btn_import": {
+    "message": "Importovať"
+  },
+  "btn_export": {
+    "message": "Exportovať"
+  },
+  "btn_remove": {
+    "message": "Vymazať všetko"
+  },
+  "msg_no_cookies": {
+    "message": "Žiadne súbory cookie."
+  },
+  "btn_delete": {
+    "message": "Vymazať"
+  },
+  "btn_cancel": {
+    "message": "Zrušiť"
+  },
+  "btn_edit": {
+    "message": "Upraviť"
+  },
+  "title_delete": {
+    "message": "Naozaj chcete odstrániť všetky súbory cookie z tejto webovej stránky?"
+  },
+  "title_import": {
+    "message": "Skúšate importovať súbory cookie?"
+  },
+  "msg_import_error": {
+    "message": "Chyba pri importovaní súborov cookie."
+  },
+  "pl_password": {
+    "message": "Heslo na šifrovanie/odšifrovanie súborov cookie"
+  },
+  "title_export": {
+    "message": "Skúšate exportovať súbory cookie?"
+  }
+}

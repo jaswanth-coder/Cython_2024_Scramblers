@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie-redigerer"
+  },
+  "ext_description": {
+    "message": "Enkel, men kraftig Cookie-redigerer som lar deg raskt opprette, redigere og slette informasjonskapsler uten å forlate fanen din."
+  },
+  "placeholder_search": {
+    "message": "Søk etter informasjonskapselnavn"
+  },
+  "btn_import": {
+    "message": "Importer"
+  },
+  "btn_export": {
+    "message": "Eksporter"
+  },
+  "btn_remove": {
+    "message": "Fjern alt"
+  },
+  "msg_no_cookies": {
+    "message": "Ingen informasjonskapsler."
+  },
+  "btn_delete": {
+    "message": "Slett"
+  },
+  "btn_cancel": {
+    "message": "Avbryt"
+  },
+  "btn_edit": {
+    "message": "Rediger"
+  },
+  "title_delete": {
+    "message": "Ønsker du å fjerne alle informasjonskapsler fra denne nettsiden?"
+  },
+  "title_import": {
+    "message": "Prøver du å importere informasjonskapsler?"
+  },
+  "msg_import_error": {
+    "message": "Feil ved importering av informasjonskapsler."
+  },
+  "pl_password": {
+    "message": "Passord for å kryptere/avkryptere informasjonskapsler"
+  },
+  "title_export": {
+    "message": "Prøver du å eksportere informasjonskapsler?"
+  }
+}

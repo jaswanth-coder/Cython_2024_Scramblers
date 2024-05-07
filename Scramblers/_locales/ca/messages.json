@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Editor de Galetes"
+  },
+  "ext_description": {
+    "message": "Editor senzill però potent de galetes que et permet crear, editar i eliminar ràpidament les galetes sense sortir de la teva pestanya."
+  },
+  "placeholder_search": {
+    "message": "Cerca el nom de la galeta"
+  },
+  "btn_import": {
+    "message": "Importa"
+  },
+  "btn_export": {
+    "message": "Exporta"
+  },
+  "btn_remove": {
+    "message": "Neteja-ho tot"
+  },
+  "msg_no_cookies": {
+    "message": "Sense galetes."
+  },
+  "btn_delete": {
+    "message": "Elimina"
+  },
+  "btn_cancel": {
+    "message": "Cancel·la"
+  },
+  "btn_edit": {
+    "message": "Edita"
+  },
+  "title_delete": {
+    "message": "Vols eliminar totes les galetes d'aquest lloc web?"
+  },
+  "title_import": {
+    "message": "Estàs intentant importar galetes?"
+  },
+  "msg_import_error": {
+    "message": "Error en importar les galetes."
+  },
+  "pl_password": {
+    "message": "Contrasenya per a xifrar/desxifrar les galetes"
+  },
+  "title_export": {
+    "message": "Estàs intentant exportar galetes?"
+  }
+}

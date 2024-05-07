@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Evästeiden muokkaaja"
+  },
+  "ext_description": {
+    "message": "Yksinkertainen mutta tehokas evästeiden muokkaaja, jonka avulla voit nopeasti luoda, muokata ja poistaa evästeitä ilman että joudut poistumaan välilehdestäsi."
+  },
+  "placeholder_search": {
+    "message": "Etsi evästeen nimi"
+  },
+  "btn_import": {
+    "message": "Tuo"
+  },
+  "btn_export": {
+    "message": "Vie"
+  },
+  "btn_remove": {
+    "message": "Tyhjennä kaikki"
+  },
+  "msg_no_cookies": {
+    "message": "Ei evästeitä."
+  },
+  "btn_delete": {
+    "message": "Poista"
+  },
+  "btn_cancel": {
+    "message": "Peruuta"
+  },
+  "btn_edit": {
+    "message": "Muokkaa"
+  },
+  "title_delete": {
+    "message": "Haluatko poistaa kaikki tämän verkkosivuston evästeet?"
+  },
+  "title_import": {
+    "message": "Oletko yrittämässä tuoda evästeitä?"
+  },
+  "msg_import_error": {
+    "message": "Evästeiden tuonti epäonnistui."
+  },
+  "pl_password": {
+    "message": "Salasana evästeiden salakirjoittamiseen/purkamiseen"
+  },
+  "title_export": {
+    "message": "Oletko yrittämässä viedä evästeitä?"
+  }
+}

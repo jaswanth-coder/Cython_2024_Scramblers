@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Küpsiste Redaktor"
+  },
+  "ext_description": {
+    "message": "Lihtne, kuid võimas küpsiste redaktor, mis võimaldab teil kiiresti luua, muuta ja kustutada küpsiseid, kartmata oma vahekaardilt lahkumist."
+  },
+  "placeholder_search": {
+    "message": "Otsi küpsise nime järgi"
+  },
+  "btn_import": {
+    "message": "Impordi"
+  },
+  "btn_export": {
+    "message": "Ekspordi"
+  },
+  "btn_remove": {
+    "message": "Puhasta kõik"
+  },
+  "msg_no_cookies": {
+    "message": "Küpsiseid pole."
+  },
+  "btn_delete": {
+    "message": "Kustuta"
+  },
+  "btn_cancel": {
+    "message": "Tühista"
+  },
+  "btn_edit": {
+    "message": "Muuda"
+  },
+  "title_delete": {
+    "message": "Kas soovite eemaldada kõik selle veebisaidi küpsised?"
+  },
+  "title_import": {
+    "message": "Kas proovite küpsiseid importida?"
+  },
+  "msg_import_error": {
+    "message": "Küpsiste importimine ebaõnnestus."
+  },
+  "pl_password": {
+    "message": "Küpsiste krüpteerimise/dekrüpteerimise parool"
+  },
+  "title_export": {
+    "message": "Kas proovite küpsiseid eksportida?"
+  }
+}

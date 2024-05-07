@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie Szerkesztő"
+  },
+  "ext_description": {
+    "message": "Egyszerű, mégis erős süti szerkesztő, amely lehetővé teszi a sütik gyors létrehozását, szerkesztését és törlését anélkül, hogy elhagynád a lapodat."
+  },
+  "placeholder_search": {
+    "message": "Süti nevének keresése"
+  },
+  "btn_import": {
+    "message": "Importálás"
+  },
+  "btn_export": {
+    "message": "Exportálás"
+  },
+  "btn_remove": {
+    "message": "Összes törlése"
+  },
+  "msg_no_cookies": {
+    "message": "Nincsenek sütik."
+  },
+  "btn_delete": {
+    "message": "Törlés"
+  },
+  "btn_cancel": {
+    "message": "Mégse"
+  },
+  "btn_edit": {
+    "message": "Szerkesztés"
+  },
+  "title_delete": {
+    "message": "Biztosan törölni szeretnéd az összes sütit erről a webhelyről?"
+  },
+  "title_import": {
+    "message": "Sütik importálása?"
+  },
+  "msg_import_error": {
+    "message": "Sütik importálása sikertelen."
+  },
+  "pl_password": {
+    "message": "Jelszó a sütik titkosításához/leolvasásához"
+  },
+  "title_export": {
+    "message": "Sütik exportálása?"
+  }
+}

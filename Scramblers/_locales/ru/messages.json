@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Редактор Cookie"
+  },
+  "ext_description": {
+    "message": "Простой, но мощный Редактор Cookie, который позволяет вам быстро создавать, редактировать и удалять файлы cookie, не покидая вашу вкладку."
+  },
+  "placeholder_search": {
+    "message": "Поиск по имени файла cookie"
+  },
+  "btn_import": {
+    "message": "Импорт"
+  },
+  "btn_export": {
+    "message": "Экспорт"
+  },
+  "btn_remove": {
+    "message": "Очистить все"
+  },
+  "msg_no_cookies": {
+    "message": "Нет файлов cookie."
+  },
+  "btn_delete": {
+    "message": "Удалить"
+  },
+  "btn_cancel": {
+    "message": "Отмена"
+  },
+  "btn_edit": {
+    "message": "Редактировать"
+  },
+  "title_delete": {
+    "message": "Вы уверены, что хотите удалить все файлы cookie с этого сайта?"
+  },
+  "title_import": {
+    "message": "Пытаетесь импортировать файлы cookie?"
+  },
+  "msg_import_error": {
+    "message": "Не удалось импортировать файлы cookie."
+  },
+  "pl_password": {
+    "message": "Пароль для шифрования/дешифрования файлов cookie"
+  },
+  "title_export": {
+    "message": "Пытаетесь экспортировать файлы cookie?"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie Editor"
+  },
+  "ext_description": {
+    "message": "Enkel, men kraftfuld Cookie Editor, der giver dig mulighed for hurtigt at oprette, redigere og slette cookies uden at forlade din fane."
+  },
+  "placeholder_search": {
+    "message": "Søg efter cookienavn"
+  },
+  "btn_import": {
+    "message": "Importer"
+  },
+  "btn_export": {
+    "message": "Eksporter"
+  },
+  "btn_remove": {
+    "message": "Ryd alle"
+  },
+  "msg_no_cookies": {
+    "message": "Ingen cookies."
+  },
+  "btn_delete": {
+    "message": "Slet"
+  },
+  "btn_cancel": {
+    "message": "Annuller"
+  },
+  "btn_edit": {
+    "message": "Rediger"
+  },
+  "title_delete": {
+    "message": "Ønsker du at fjerne alle cookies fra denne hjemmeside?"
+  },
+  "title_import": {
+    "message": "Prøver du at importere cookies?"
+  },
+  "msg_import_error": {
+    "message": "Fejl ved import af cookies."
+  },
+  "pl_password": {
+    "message": "Adgangskode til at kryptere/dekryptere cookies"
+  },
+  "title_export": {
+    "message": "Prøver du at eksportere cookies?"
+  }
+}

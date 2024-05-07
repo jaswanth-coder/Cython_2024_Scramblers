@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Edytor Cookie"
+  },
+  "ext_description": {
+    "message": "Prosty, ale potężny Edytor Cookie, który pozwala szybko tworzyć, edytować i usuwać pliki cookie bez opuszczania karty."
+  },
+  "placeholder_search": {
+    "message": "Wyszukaj nazwę pliku cookie"
+  },
+  "btn_import": {
+    "message": "Importuj"
+  },
+  "btn_export": {
+    "message": "Eksportuj"
+  },
+  "btn_remove": {
+    "message": "Usuń wszystko"
+  },
+  "msg_no_cookies": {
+    "message": "Brak plików cookie."
+  },
+  "btn_delete": {
+    "message": "Usuń"
+  },
+  "btn_cancel": {
+    "message": "Anuluj"
+  },
+  "btn_edit": {
+    "message": "Edytuj"
+  },
+  "title_delete": {
+    "message": "Czy na pewno chcesz usunąć wszystkie pliki cookie z tej witryny?"
+  },
+  "title_import": {
+    "message": "Czy próbujesz importować pliki cookie?"
+  },
+  "msg_import_error": {
+    "message": "Nie udało się zaimportować plików cookie."
+  },
+  "pl_password": {
+    "message": "Hasło do szyfrowania/deszyfrowania plików cookie"
+  },
+  "title_export": {
+    "message": "Czy próbujesz eksportować pliki cookie?"
+  }
+}

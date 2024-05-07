@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "ویرایشگر کوکی"
+  },
+  "ext_description": {
+    "message": "ویرایشگر کوکی ساده اما قدرتمند که به شما این امکان را می‌دهد که به سرعت کوکی‌ها را ایجاد، ویرایش و حذف کنید بدون ترک تب خود."
+  },
+  "placeholder_search": {
+    "message": "نام کوکی را جستجو کنید"
+  },
+  "btn_import": {
+    "message": "وارد کردن"
+  },
+  "btn_export": {
+    "message": "صدور"
+  },
+  "btn_remove": {
+    "message": "پاک کردن همه"
+  },
+  "msg_no_cookies": {
+    "message": "بدون کوکی."
+  },
+  "btn_delete": {
+    "message": "حذف"
+  },
+  "btn_cancel": {
+    "message": "لغو"
+  },
+  "btn_edit": {
+    "message": "ویرایش"
+  },
+  "title_delete": {
+    "message": "آیا می‌خواهید تمام کوکی‌های این وب‌سایت را حذف کنید؟"
+  },
+  "title_import": {
+    "message": "آیا سعی دارید کوکی‌ها را وارد کنید؟"
+  },
+  "msg_import_error": {
+    "message": "وارد کردن کوکی‌ها ناموفق بود."
+  },
+  "pl_password": {
+    "message": "رمز عبور برای رمزگذاری/رمزگشایی کوکی‌ها"
+  },
+  "title_export": {
+    "message": "آیا سعی دارید کوکی‌ها را صدور کنید؟"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Cookie 編輯器"
+  },
+  "ext_description": {
+    "message": "簡單而強大的 Cookie 編輯器，讓您可以在不離開分頁的情況下快速創建、編輯和刪除 Cookie。"
+  },
+  "placeholder_search": {
+    "message": "搜尋 Cookie 名稱"
+  },
+  "btn_import": {
+    "message": "匯入"
+  },
+  "btn_export": {
+    "message": "匯出"
+  },
+  "btn_remove": {
+    "message": "清除全部"
+  },
+  "msg_no_cookies": {
+    "message": "沒有 Cookie。"
+  },
+  "btn_delete": {
+    "message": "刪除"
+  },
+  "btn_cancel": {
+    "message": "取消"
+  },
+  "btn_edit": {
+    "message": "編輯"
+  },
+  "title_delete": {
+    "message": "您確定要刪除此網站的所有 Cookie 嗎？"
+  },
+  "title_import": {
+    "message": "您是否嘗試匯入 Cookie？"
+  },
+  "msg_import_error": {
+    "message": "匯入 Cookie 失敗。"
+  },
+  "pl_password": {
+    "message": "用於加密/解密 Cookie 的密碼"
+  },
+  "title_export": {
+    "message": "您是否嘗試匯出 Cookie？"
+  }
+}

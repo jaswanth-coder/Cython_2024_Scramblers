@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Редактор файлів cookie"
+  },
+  "ext_description": {
+    "message": "Простий, але потужний редактор файлів cookie, який дозволяє вам швидко створювати, редагувати та видаляти файли cookie, не залишаючи вашу вкладку."
+  },
+  "placeholder_search": {
+    "message": "Пошук імені файлу cookie"
+  },
+  "btn_import": {
+    "message": "Імпорт"
+  },
+  "btn_export": {
+    "message": "Експорт"
+  },
+  "btn_remove": {
+    "message": "Очистити все"
+  },
+  "msg_no_cookies": {
+    "message": "Немає файлів cookie."
+  },
+  "btn_delete": {
+    "message": "Видалити"
+  },
+  "btn_cancel": {
+    "message": "Скасувати"
+  },
+  "btn_edit": {
+    "message": "Редагувати"
+  },
+  "title_delete": {
+    "message": "Ви дійсно хочете видалити всі файли cookie цього веб-сайту?"
+  },
+  "title_import": {
+    "message": "Ви намагаєтеся імпортувати файли cookie?"
+  },
+  "msg_import_error": {
+    "message": "Не вдалося імпортувати файли cookie."
+  },
+  "pl_password": {
+    "message": "Пароль для шифрування/розшифрування файлів cookie"
+  },
+  "title_export": {
+    "message": "Ви намагаєтеся експортувати файли cookie?"
+  }
+}

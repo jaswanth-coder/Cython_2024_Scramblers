@@ -1,0 +1,47 @@
+{
+  "ext_name": {
+    "message": "Editor de Cookie-uri"
+  },
+  "ext_description": {
+    "message": "Editor de Cookie-uri simplu dar puternic care vă permite să creați, să editați și să ștergeți cookie-uri rapid fără a părăsi fila dvs."
+  },
+  "placeholder_search": {
+    "message": "Căutați numele cookie-ului"
+  },
+  "btn_import": {
+    "message": "Importare"
+  },
+  "btn_export": {
+    "message": "Exportare"
+  },
+  "btn_remove": {
+    "message": "Ștergeți tot"
+  },
+  "msg_no_cookies": {
+    "message": "Niciun cookie."
+  },
+  "btn_delete": {
+    "message": "Ștergeți"
+  },
+  "btn_cancel": {
+    "message": "Anulați"
+  },
+  "btn_edit": {
+    "message": "Editați"
+  },
+  "title_delete": {
+    "message": "Doriți să ștergeți toate cookie-urile de pe acest site?"
+  },
+  "title_import": {
+    "message": "Încercați să importați cookie-uri?"
+  },
+  "msg_import_error": {
+    "message": "Eșec la importul cookie-urilor."
+  },
+  "pl_password": {
+    "message": "Parola pentru criptarea/decriptarea cookie-urilor"
+  },
+  "title_export": {
+    "message": "Încercați să exportați cookie-uri?"
+  }
+}
